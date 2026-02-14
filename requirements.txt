@@ -1,0 +1,2 @@
+icmplib~=3.0.4
+telnetlib3~=2.4.0
