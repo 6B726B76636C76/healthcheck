@@ -7,6 +7,7 @@ from DataModels.NetworkDataModels.TelnetResultModel import TelnetResult
 
 
 @dataclass
-class HostAvailabilityData:
+class HostAvailabilityDataModel:
+    host: str
     ping: PingResult
-    tenlet: List[TelnetResult]
+    telnet: List[TelnetResult]

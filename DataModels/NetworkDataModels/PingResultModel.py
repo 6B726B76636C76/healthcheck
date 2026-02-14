@@ -6,4 +6,4 @@ class PingResult:
     host: str
     average_time: float
     loss: float
-    succesfull: bool
+    successful: bool
