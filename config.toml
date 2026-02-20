@@ -1,0 +1,8 @@
+[localhost]
+host = "172.67.75.96"
+ports = [6379, 443, 80]
+ssh_port = 22
+username = "username"
+ssh_key = "/home/user/.ssh/id_ed25519"
+ssh_key_passphrase = ""
+checkout_interval = "600s"
