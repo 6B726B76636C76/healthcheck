@@ -1,2 +1,4 @@
 icmplib~=3.0.4
 telnetlib3~=2.4.0
+python-dotenv~=1.2.1
+paramiko~=4.0.0
